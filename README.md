@@ -1,5 +1,5 @@
 
-# HR Management System for SMEs
+# HR Management System for SMEs, please refer to master branch for full code
 
 ## Description
 
