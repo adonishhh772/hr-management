@@ -1,5 +1,3 @@
-<p align="right">Sponsored by</p>
-<p align="right"><a href="https://adevait.com/"><img src="https://adevait.com/img/logo.svg" alt="Adeva - Exclusive Developers Network" width="105" ></a></p>
 
 # HR Management System for SMEs
 
@@ -51,11 +49,3 @@ We encourage you to contribute to HRM! Please check out the [Contributing guide]
 ## License
 
 HRM is released under the GPL v3 (or later) license.
-
-## Support
-
-Please direct any feedback to trajchevska@adevait.com.
-
-## Our supporters
-#### [BrowserStack](https://www.browserstack.com/): Hassle free web-based browser testing 
-![Testing made easy with BrowserStack](https://raw.githubusercontent.com/adevait/hrm/master/public/images/browserstack-logo.png)
